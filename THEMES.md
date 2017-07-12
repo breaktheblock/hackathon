@@ -12,6 +12,7 @@ WIP
 
 ### RS Components
 
-- See [workshop](workshops/RSCOMPONENTS.md)
+- See [workshop](workshops/RSCOMPONENTS.md) - TBD
+- A number of raspberries will be available with everything pre-installed - TBD
 
 ### Simply Business
