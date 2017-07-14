@@ -35,13 +35,13 @@ While your team is finalising your pitch slide, I encourage some of your technic
 
 ## Step5: Pitch (3pm)
 
-Each team have 5 min to pitch with following 2 min of Q&A from judges.
+- Main sponsors will have a short presentation (max 2min)
+- Each team have 5 min to pitch with following 2 min of Q&A from judges.
 
 ## Setp6: Judging
 
 After all participating team ends their pitches, the judges go to different room to decide winners. While judging,
 
 - Any sponsor/mentor/organisers teams who did the hack will present their result.
-- Main sponsors will have a short presentation (max 2min)
 
 ## Step7 (5pm): Winners announced!
