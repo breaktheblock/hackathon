@@ -24,7 +24,7 @@ Entires could relate to any part of the insurance eco-system, for example:
 - Risk management: ways to reduce the likelihood of an insurable loss happening in the first place.
 - Alternative Risk Transfer: other techniques to provide entities that face financial risk with coverage and protection.
 
-###Notes
+### Notes
 - Code does not have to be a SmartContract.
 - If you are building on top of existing service/smart contract, please make it clear  which part is built by your team during hackathon.
 
