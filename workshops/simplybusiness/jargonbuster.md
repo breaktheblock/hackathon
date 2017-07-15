@@ -44,7 +44,7 @@ Something that affects the probability of a risk occurring. For example flammabl
 The date (and time) at which cover for an insurance policy starts. Policies usually run for 12 months.
 
 
-### indemnity
+### Indemnity
 The process of putting the insured back into the same position after a loss as they were before a loss. No better or worse off.
 
 

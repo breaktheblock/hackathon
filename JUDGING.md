@@ -29,7 +29,7 @@ Entires could relate to any part of the insurance eco-system, for example:
 - If you are building on top of existing service/smart contract, please make it clear  which part is built by your team during hackathon.
 
 
-## Examples
+## Examples
 
 ### Good
 
