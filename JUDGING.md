@@ -7,7 +7,7 @@
 - Vladimir Tosovic: Business Development, Etherisc
 - Prof. Will Knottenbelt: Director of the Imperial College Centre for Cryptocurrency Research and Engineering
 - Yiseul Cho: MD, Zen9
-- Nicholas Berry:
+- Nicholas Berry: Partner, Norton Rose Fulbright LLP
 
 ## General guidelines
 
