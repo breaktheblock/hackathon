@@ -13,7 +13,7 @@
 
 The theme of this hackathon is the application of blockchain technologies in the insurance industry.
 
-All entires must make use of blockchain technologies. Entries must attempt to solve a problem facing the insurance industry or should relate to opportunities in the more general area of **protecting people/businesses/governments from unexpected financial loss**.
+All entries must make use of blockchain technologies. Entries must attempt to solve a problem facing the insurance industry or should relate to opportunities in the more general area of **protecting people/businesses/governments from unexpected financial loss**.
 
 Entires could relate to any part of the insurance eco-system, for example:
 - **Underwriting**: taking on risk in return for money (a premium) and the process of calculating premiums and the terms of the insurance contract.
