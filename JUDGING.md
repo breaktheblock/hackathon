@@ -13,7 +13,7 @@
 
 The theme of this hackathon is the application of blockchain technologies in the insurance industry.
 
-All entries must make use of blockchain technologies. Entries must attempt to solve a problem facing the insurance industry or should relate to opportunities in the more general area of **protecting people/businesses/governments from unexpected financial loss**.
+All entries must make use of blockchain technologies. Entries must serve some purpose to the insurance industry. This includes the broader aim of insurance: **protecting people/businesses/governments from unexpected financial loss**. Entries that stray too far away from these principles or that provide little use to the insurance industry will not impress the judges.
 
 Entires could relate to any part of the insurance eco-system, for example:
 - **Underwriting**: taking on risk in return for money (a premium) and the process of calculating premiums and the terms of the insurance contract.
@@ -45,5 +45,5 @@ Entires could relate to any part of the insurance eco-system, for example:
 ### Border lines
 
 - I already have an insurance smart contract that I have built and I want to build a mobile interface through mobile wallet (e.g. status.im) = It's possible but prepare for the judges to be underwhelmed unless the mobile offering experience will enhance the user experience significantly.
-- I am building a gambling dapp. Isn't insurance the same as gambling? = Insurance and gambling are very different but they do both rely on some similar concepts, for example, understanding probability. A project that sits in the gray area between insurance and gambling is acceptable as long as the aim is still for protecting people/businesses/governments from unexpected financial loss. You will get extra credit if you clearly state the limitations of this approach and acknowledge the difference between insurance and gambling.
+- I am building a gambling dapp. Isn't insurance the same as gambling? = Insurance and gambling are very different but they do both rely on some similar concepts, for example, understanding probability. A project that sits in the gray area between insurance and gambling is acceptable as long as the aim is still for protecting people/businesses/governments from unexpected financial loss and not, for example,  a way for people to profit from their own or other people's losses. You will get extra credit if you clearly state the limitations of this approach and acknowledge the difference between insurance and gambling.
 - I am going to use R3 Corda = R3 Corda or other DLT solutions may not necessarily be regarded as a blockchain. However, we are breaking the block hence some variant technology will be acceptable.
