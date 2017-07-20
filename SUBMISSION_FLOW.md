@@ -1,6 +1,6 @@
 # Submission Flow & Demo
 
-We will follow similar rules done by [status.im global hackathon]().
+We will follow similar rules done by [status.im global hackathon](https://github.com/status-im/hackathon).
 
 ## Step 1: Team registration (by Saturday noon).
 
@@ -38,7 +38,7 @@ While your team is finalising your pitch slide, I encourage some of your technic
 - Main sponsors will have a short presentation (max 2min)
 - Each team have 5 min to pitch with following 2 min of Q&A from judges.
 
-## Setp6: Judging
+## Setp6: Judging
 
 After all participating team ends their pitches, the judges go to different room to decide winners. While judging,
 
