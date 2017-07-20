@@ -1,0 +1,1 @@
+# #BreakTheBlock hackathon guideline
