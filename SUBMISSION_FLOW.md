@@ -2,6 +2,8 @@
 
 We will follow similar rules done by [status.im global hackathon](https://github.com/status-im/hackathon).
 
+You can watch [this YouTube video for the walkthrough](https://www.youtube.com/watch?v=vCJs4zFIjzg)
+
 ## Step 1: Team registration (by Saturday noon).
 
 Once you decide the team, please submit an issue describing the followings
