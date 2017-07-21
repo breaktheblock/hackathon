@@ -21,7 +21,7 @@ http://docs.oraclize.it/#data-sources
 
 You don't have to trust Oraclize for the data that we return. Your smart contract can be configured to require for each query an authenticity proof, which is a document attesting that the data is coming from the data provider you requested and that it wasn't tampered by us.
 
-Your smart contract can ask for authenticity proof by calling `oraclize_setProof()` in the constructor and passing the type of authenticity proof requested: e.g `oraclize_setProof(proofType_TLSNotary | proofStorage_IPFS)` will return to your callback the data and the IPFS multihash of the proof file.  
+Your smart contract can ask for authenticity proof by calling `oraclize_setProof()` in the constructor and passing the type of authenticity proof requested: e.g `oraclize_setProof(proofType_TLSNotary | proofStorage_IPFS)` will return to your callback the data and the IPFS multihash of the proof file. An example can be seen here:  https://github.com/oraclize/ethereum-examples/blob/master/solidity/KrakenPriceTicker.sol
 
 ## Integrating Oraclize in your Smart Contract
 
