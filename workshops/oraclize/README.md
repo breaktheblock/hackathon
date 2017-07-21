@@ -19,6 +19,9 @@ The entire interaction should take around 30 seconds, mostly due to block confir
 More informations on datasources and what you can use them for it's available here:
 http://docs.oraclize.it/#data-sources
 
+You don't have to trust Oraclize for the data that we return. Your smart contract can be configured to require for each query an authenticity proof, which is a document attesting that the data is coming from the data provider you requested and that it wasn't tampered by us.
+
+Your smart contract can ask for authenticity proof by calling `oraclize_setProof()` in the constructor and passing the type of authenticity proof requested: e.g `oraclize_setProof(proofType_TLSNotary | proofStorage_IPFS)` will return to your callback the data and the IPFS multihash of the proof file.  
 
 ## Integrating Oraclize in your Smart Contract
 
@@ -60,6 +63,10 @@ The ExampleContract above is simple: when the function updatePrice is executed, 
 The result, which is the current EUR/GBP exchange rate, is returned as the result argument (as a string) in the callback function, which you see defined in the example.
 
 **Note**: Oraclize works on a pay-per-call fee model. In order for Oraclize to work, the contract should have a balance or alternatively value must be send with the transaction executing `oraclize_query`. The fee is taken automatically and correctly by the oraclize_query.
+This applies also on testnet: your contract should have a balance in testnet ethers.
+
+A more complete guide on our Ethereum integration can be found here:
+http://docs.oraclize.it/#ethereum-quick-start
 
 ## Testing the Code
 You can test your contracts in a private testnet or on the public Ethereum testnet: Kovan, Rinkeby and Ropsten.
