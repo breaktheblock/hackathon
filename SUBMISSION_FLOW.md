@@ -29,7 +29,7 @@ Please make the Pull Request with the following details and add @makoto as an ap
 ## Step3: Final submission (by 2pm)
 
 When the deadline reaches, we will clone your repo into our org.
-Please follow [the example README] file
+Please follow [the example README](/example/README.md) file
 
 ## Step4: Tech cross review (by Sunday 2pm ~ 3pm)
 
