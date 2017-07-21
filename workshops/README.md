@@ -10,6 +10,6 @@ Please create new file for each workshop under this directory.
 ## Saturday
 
 - [Oraclize](https://github.com/simplybusiness/breaktheblockhackathoncontent/blob/master/workshops/oraclize/README.md) = “Oraclize 101: the safest data-transport-layer for blockchain applications” by Thomas Bertani
-- [RS Components](./rscomponents/README.md) = “Ethereum in The Age Of Open Hardware & Embedded Devices” by Andrei Baloiu
+- [RS Components](./rscomponents/README.md) = “Ethereum in The Age Of Open Hardware & Embedded Devices” by Andy Baloiu
 - CryptoCompare = “Real-time price feed from CryptoCompare” by Quynh Tran 
 
