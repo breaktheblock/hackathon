@@ -14,13 +14,13 @@ To encourage transparent discussion and feedback loop, we mandated all the parti
 
 One hour before the pitch started, the code was put into freeze and the organiser forked their code under the organisation. The intention was to capture the snapshot of the results and make the forked version available to general public. After the hackathon, it is up to each participating team to continue as open source or move into closed source.
 
-See [HACKATHON] for more detail about the entire process.
+See [HACKATHON](./HACKATHON.md) for more detail about the entire process.
 
 ## Workshops
 
 On Saturday morning, technical sponsors gave a series of workshops ranging from Solidity 101 to connecting IoT devices.
 
-[YouTube videos will be published]
+(YouTube videos will be published)
 
 ## Results
 
