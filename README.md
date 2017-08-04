@@ -4,7 +4,27 @@
 
 This repo contains all the information which was used to run http://breaktheblock.simplybusiness.co.uk hackathon held at Simply Business during 21st ~ 23rd July.
 
+## Purpose
+
+The main aim of the hackathon was for participants to brainstorm and come up with blockchain use case in the context of insurance.
+
+The insurance market is inherently closed community and it is rare that their technical detail will be opened in the public environment.
+
+To encourage transparent discussion and feedback loop, we mandated all the participants to use [GitHub Issues]() describing their problem descriptions and link to their repos. Each participant were encouraged to push the code throughout the hackathon so that mentors and judges had a chance to look into their code honoring the sprit of hackathon (compared to the recent trend of pitching concept without any codes).
+
+One hour before the pitch started, the code was put into freeze and the organiser forked their code under the organisation. The intention was to capture the snapshot of the results and make the forked version available to general public. After the hackathon, it is up to each participating team to continue as open source or move into closed source.
+
+See [HACKATHON] for more detail about the entire process.
+
+## Workshops
+
+On Saturday morning, technical sponsors gave a series of workshops ranging from Solidity 101 to connecting IoT devices.
+
+[YouTube videos will be published]
+
 ## Results
+
+10 teams competed with addition of 2 sponsor teams from Travelers and Accenture (sponsors were not competing for the prize). Each team had 5 min to pitch followed by a few minutes Q&A.
 
 
 | Team                          | Project Repo                                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Fork                                                               | YouTube | Slide | Notes                                |
