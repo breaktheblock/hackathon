@@ -26,9 +26,13 @@ On Saturday morning, technical sponsors gave a series of workshops ranging from 
 - [Etherisc](https://www.youtube.com/watch?v=fVKKYhfmEmM) by Vladimir Tosovic, Etherisc
 - [Solidity 101](https://www.youtube.com/watch?v=rLRk4Z7zdnA) by Nick Johnson, Ethereum Foundation
 
+[YouTube playlist](https://www.youtube.com/playlist?list=PLJhIyHB4TK3_a3V0TpGwLzqo5NKCO4PAl)
+
 ## Results
 
 10 teams competed with addition of 2 sponsor teams from Travelers and Accenture (sponsors were not competing for the prize). Each team had 5 min to pitch followed by a few minutes Q&A.
+
+[YouTube playlist](https://www.youtube.com/playlist?list=PLJhIyHB4TK39lCxvfYeh5eHhOml_Z1yGp)
 
 
 | Team                          | Project Repo                                                                                                                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Video/Slide                                                                                                                                                          | Notes                                |
